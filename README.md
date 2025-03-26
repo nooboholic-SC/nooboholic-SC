@@ -22,8 +22,7 @@
 - NASSCOM Certified Developer (Gold & Silver badges 🏅)
 
 ## 🛠️ My Toolbox
-`EDI Notepad` | `Altova XMLSpy` | `Visual Studio` | `Postman`
-
+`EDI Notepad` |  `Visual Studio` 
 ## 🌟 Fun Facts
 - I make supply chains dance to EDI rhythms 💃
 - Can transform CSV into X12 with my eyes closed (almost 😉)
