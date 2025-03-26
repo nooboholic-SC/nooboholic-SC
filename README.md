@@ -30,7 +30,7 @@
 - Believe every data format deserves a happy conversion!
 
 ## 📫 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](your-linkedin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](www.linkedin.com/in/sachin-chauhan-aka-nooboholic)
 [![Email](https://img.shields.io/badge/Email-Me-red?style=flat&logo=gmail)](mailto:your-email)
 
 *"Turning EDI challenges into opportunities - one transaction at a time!"* ✨
