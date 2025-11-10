@@ -6,19 +6,8 @@
 - **Integration Chef**: CSV, XML, JSON, SQL - Blending data formats to perfection
 - **Code Artist**: C#, .NET, SQL - Crafting elegant solutions
 
-## 🏆 Professional Highlights
-### 💼 Infoconn Systems (Oct 2022-Present)
-- Automated 880 Invoice processing (40% efficiency boost 🚀)
-- Built grocery supply chain EDI solutions
-- Reduced EDI rejections by 25% 🎯
-
-### 🏅 Data Solutions India (Aug 2021-Oct 2022)
-- Led paper-to-EDI migration
-- Employee of the Month (December 2021) ⭐
-- Slashed billing errors by 18% ✂️
-
 ## 🎓 Education & Credentials
-- B.Voc in Software Development (6.8 CGPA)
+- B.Voc in Software Development
 - NASSCOM Certified Developer (Gold & Silver badges 🏅)
 
 ## 🛠️ My Toolbox
